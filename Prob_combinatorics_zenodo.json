@@ -1,0 +1,24 @@
+{
+  "title": "Prob_combinatorics - 1001 Proofs: Chapter 1",
+  "description": "1001 proofs/theorems in Prob_combinatorics",
+  " creators": [
+    {
+      "name": "Yuriy Aronov",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "mathematics",
+    "proofs",
+    "theorems",
+    "prob_combinatorics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/aibornstore/science-books-1001-proofs",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

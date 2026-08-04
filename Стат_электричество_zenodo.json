@@ -1,0 +1,24 @@
+{
+  "title": "Стат_электричество - 1001 Proofs: Chapter 1",
+  "description": "1001 proofs/theorems in Стат_электричество",
+  " creators": [
+    {
+      "name": "Yuriy Aronov",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "mathematics",
+    "proofs",
+    "theorems",
+    "стат_электричество"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/aibornstore/science-books-1001-proofs",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Ферми-Дирак - 1001 Proofs: Chapter 1",
+  "description": "1001 proofs/theorems in Ферми-Дирак",
+  " creators": [
+    {
+      "name": "Yuriy Aronov",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "mathematics",
+    "proofs",
+    "theorems",
+    "ферми-дирак"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/aibornstore/science-books-1001-proofs",
+      "relation": "isSupplementTo"
+    }
+  ]
+}
